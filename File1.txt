@@ -1,3 +1,5 @@
 My new File
 
 Modification to test the command "git diff origin/master master"
+
+Modification to test the Conflict Situation
