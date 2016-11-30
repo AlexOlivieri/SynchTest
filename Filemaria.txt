@@ -1,8 +1,0 @@
-My new File
-
-Test pull and merge - Slide 16 - Module 4
-
-Modification to test the command "git diff origin/master master"
-
-Modification to test the Conflict Situation
-
