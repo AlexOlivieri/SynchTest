@@ -2,11 +2,9 @@ My new File
 
 and merge and pull - Slide 16 - Module 4
 
-Modification to test the command "git diff origin/master master"
+ to test the Conflict Situation
 
-Modification to test the Conflict Situation
-
-added: test
+added: test Annd
 
 modification from Fabian & conflict for zhan
 
